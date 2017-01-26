@@ -1,0 +1,54 @@
+tetrominoes.png
+size: 888, 88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+I tetromino
+  rotate: true
+  xy: 1, 1
+  size: 46, 166
+  orig: 72, 186
+  offset: 10, 10
+  index: -1
+J tetromino
+  rotate: true
+  xy: 677, 1
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+L tetromino
+  rotate: true
+  xy: 425, 1
+  size: 86, 126
+  orig: 100, 146
+  offset: 8, 10
+  index: -1
+O tetromino
+  rotate: false
+  xy: 801, 1
+  size: 86, 86
+  orig: 118, 122
+  offset: 16, 12
+  index: -1
+S tetromino
+  rotate: false
+  xy: 169, 1
+  size: 126, 86
+  orig: 144, 100
+  offset: 10, 6
+  index: -1
+T tetromino
+  rotate: false
+  xy: 297, 1
+  size: 126, 86
+  orig: 138, 98
+  offset: 6, 6
+  index: -1
+Z tetromino
+  rotate: false
+  xy: 553, 1
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
